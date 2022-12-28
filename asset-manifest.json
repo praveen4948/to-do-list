@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/praveen4948.github.io/todowebsite/static/css/main.594baa01.css",
+    "main.js": "/praveen4948.github.io/todowebsite/static/js/main.8abcd9f0.js",
+    "index.html": "/praveen4948.github.io/todowebsite/index.html",
+    "main.594baa01.css.map": "/praveen4948.github.io/todowebsite/static/css/main.594baa01.css.map",
+    "main.8abcd9f0.js.map": "/praveen4948.github.io/todowebsite/static/js/main.8abcd9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.594baa01.css",
+    "static/js/main.8abcd9f0.js"
+  ]
+}
